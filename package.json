@@ -1,0 +1,28 @@
+{
+  "name": "nodeplacecomref",
+  "version": "1.0.0",
+  "description": "A simple porject to ref type relationships in mongose.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulMohanDev/nodePlaceComRef.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulMohanDev/nodePlaceComRef/issues"
+  },
+  "homepage": "https://github.com/RahulMohanDev/nodePlaceComRef#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
